@@ -61,3 +61,6 @@ const removeInvalidDots = str => {
   if (str.endsWith('.')) {
     str = removeStrIndex(str, str.length - 1)
   }
+
+  return str
+}

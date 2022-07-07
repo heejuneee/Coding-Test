@@ -14,4 +14,4 @@ char* solution(int n) {
     }
 
     return answer;
-}
+.

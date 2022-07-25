@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-#include <stdlib.h>
+
 
 int month[12] = { 31,29,31,30,31,30,31,31,30,31,30,31 };
 const char * dates[][7] = { {"SUN"},{"MON"},{"TUE"},{"WED"},{"THU"},{"FRI"},{"SAT"} };

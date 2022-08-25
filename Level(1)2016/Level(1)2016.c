@@ -18,8 +18,8 @@ char* solution(int a, int b) {
     day = (date % 7 + 4) % 7;
 
 
-    // 리턴할 값은 메모리를 동적 할당해주세요.
-    char* answer = (char*)malloc(3 * sizeof(char));
-    strcpy(answer, dates[day][0]);
-    return answer;
-}
+//     // 리턴할 값은 메모리를 동적 할당해주세요.
+//     char* answer = (char*)malloc(3 * sizeof(char));
+//     strcpy(answer, dates[day][0]);
+//     return answer;
+// }
